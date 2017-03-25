@@ -1,0 +1,1 @@
+Type the command "make compile" to compile mfs.c, then "make exec ARG=flow.txt" (flow.txt can be replaced with other supplement test cases) to run the program mfs.c.
